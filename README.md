@@ -1,2 +1,2 @@
-# hello-world
-my first thing that I will do here
+Auyeskhan Rauan
+https://github.com/Auyeskhan/hello-world.git
